@@ -56,6 +56,6 @@ and if you did cmake with test=ON:
 
     ./runUnitTests
 
-# Acknowledgement and further details
+# Acknowledgement and additional details
 This repository is based on the works of David Y. Zhang in [this](https://github.com/dmonopoly/gtest-cmake-example) repository. He spent a lot of time figuring out all the details for cmake and gtest. Please refer to his repository README for more detail on his approach.
 
